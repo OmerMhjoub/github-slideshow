@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+You can't be a bad designer if you don't out work on your site
 Use the left arrow to go back!
